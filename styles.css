@@ -1,0 +1,12 @@
+body{
+ background-image:url("crash.gif");
+ background-size:auto;
+}
+@font-face {
+  font-family:glitch;
+  src:url("glitch.ttf");
+}
+.score{
+  font-family:glitch;
+  font-size:20px;
+}
